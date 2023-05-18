@@ -1,0 +1,35 @@
+.PCcontainer{
+    display: flex;
+    flex-direction: column;
+}
+.technologies{
+    display: flex;
+    gap: 1rem;
+}
+.skill{
+    color: #007bff;
+    padding: 0 0.5rem;
+    border: 1px solid #007bff;
+    font-size: 0.8rem;
+    border-radius: 3px;
+    font-weight: 600;
+}
+
+.arrow{
+    width: 15px;
+    height: 15px;
+    margin-bottom: 0.1rem;
+    font-weight: 500;
+}
+.titleflex{
+    border-bottom: none;
+    width: max-content;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    align-items:end;
+    transition: transform 1s ease-in-out;
+}
+.titleflex:hover .arrow{
+    transform: translateX(10px);
+}

@@ -1,0 +1,10 @@
+a{
+    color: black;
+}
+
+.container{
+    display: block;
+    margin: auto;
+    width: 65rem;
+    margin-top: 2rem;
+}

@@ -1,0 +1,102 @@
+{
+    "featured":[
+        {   "name":"Book My Show Backend",
+            "githubLink":"https://github.com/yash2700/BookMyShow",
+            "liveLink":"",
+            "technologiesUsed":[
+                "Java","SpringBoot","MySQL","OOPS","REST API","Postman"
+            ],
+            "description":"Revamped BookMyShow App's Backend system, enabling seamless movie and show management. Developed APIs for adding movies, shows, theaters, and users. Utilized Swagger and Postman for efficient data exchange."
+        },
+        {"name":"Student Result Management System.",
+            "githubLink":"https://github.com/yash2700/StudentResultManagementSystem",
+            "liveLink":"",
+            "technologiesUsed":[
+                "Java","MySQL","OOPS","Swing","AWT"
+            ],
+            "description":"Developed a user-friendly GUI application for efficient Student Result management. Empowered admins to store and update course results, student details, while enabling students to easily access their own results. Leveraged MySQL database for seamless data storage and retrieval."
+        },
+        {      "name":"Imdb Clone",
+            "githubLink":"https://github.com/yash2700/ImdbClone",
+            "liveLink":"https://courageous-naiad-b5c5ce.netlify.app/",
+            "technologiesUsed":[
+                "API's","JavaScript","React","CSS"
+            ],
+            "description":"Crafted a dynamic React app featuring seamless integration with the TMDB API. Empowered users to effortlessly explore popular, upcoming, and top-rated movies, while providing detailed information on individual movies through dedicated movie detail pages."
+        }
+    ],
+    "all":[
+        {
+            "backend":[{
+            "name":"Book MyShow Backend",
+            "githubLink":"https://github.com/yash2700/BookMyShow",
+            "liveLink":"",
+            "technologiesUsed":["Java","Spring Boot","MySQL","REST API","OOPS"]
+        },
+        {
+            "name":"Library Management System",
+            "githubLink":"https://github.com/yash2700/LibraryManagementSystem",
+            "liveLink":"",
+            "technologiesUsed":["Java","OOPS","MySQL","Spring Boot"]
+        },
+        {
+            "name":"Insurance Management",
+            "githubLink":"https://github.com/yash2700/InsuranceManagement",
+            "liveLink":"",
+            "technologiesUsed":["Java","Spring Boot","OOPS","MySQL"]
+        },
+        {
+            "name":"Stock Management System",
+            "githubLink":"https://github.com/yash2700/apiwiz",
+            "liveLink":"",
+            "technologiesUsed":["Java","Spring Boot","OOPS","MySQL"]
+        }
+        ]
+    },
+    {
+        "frontend":[
+            {
+                "name":"Imdb Clone",
+                "githubLink":"https://github.com/yash2700/ImdbClone",
+                "liveLink":"https://courageous-naiad-b5c5ce.netlify.app/",
+                "technologiesUsed":["React","API's","CSS","JavaScript"]
+            },
+            {
+                "name":"Shopping App",
+                "githubLink":"https://github.com/yash2700/ShoppingApp",
+                "liveLink":"https://yash2700.github.io/ShoppingApp/",
+                "technologiesUsed":["Html","CSS","JavaScript"]
+            },
+            {
+                "name":"Postal Data",
+                "githubLink":"https://github.com/yash2700/PostalInfo",
+                "liveLink":"https://yash2700.github.io/PostalInfo/",
+                "technologiesUsed":["Html","CSS","JavaScript","API's"]
+            },
+            {
+                "name":"Weather App",
+                "githubLink":"https://github.com/yash2700/weatherApi",
+                "liveLink":"https://yash2700.github.io/weatherApi/",
+                "technologiesUsed":["Html","CSS","JavaScript"]
+            },
+            {
+                "name":"To-Do App",
+                "githubLink":"https://github.com/yash2700/To-do-App",
+                "liveLink":"https://yash2700.github.io/To-do-App/",
+                "technologiesUsed":["Html","CSS","JavaScript"]
+            },
+            {
+                "name":"Student Management System",
+                "githubLink":"https://github.com/yash2700/StudentManagementCrud",
+                "liveLink":"https://yash2700.github.io/StudentManagementCrud/",
+                "technologiesUsed":["Html","CSS","JavaScript"]
+            },{
+                "name":"Pizza Restaurant",
+                "githubLink":"https://github.com/yash2700/m1test",
+                "liveLink":"https://yash2700.github.io/m1test/",
+                "technologiesUsed":["Html","CSS"]
+            }
+        ]
+    }
+    ]
+}

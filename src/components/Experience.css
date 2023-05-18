@@ -1,0 +1,42 @@
+.Econtainer{
+    margin-bottom: 8rem;
+    display: flex;
+    gap: 7rem;
+}
+.rigth{
+    width: 100vw;
+}
+.time_place{
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    gap: 20rem;
+}
+.time_place  span,.resume span{
+    font-size: 1.2rem;
+    margin: 1rem 0;
+    font-weight: 700;
+    color: #444452;
+}
+.time_place p{
+    margin: 1rem 0;
+}
+.resume{
+    border: none;
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    transition: transform 1s ease-in-out;
+    cursor: pointer;
+
+}
+.resume img{
+    width: 30px;
+}
+ .resume:hover img{
+    transform: translateX(10px);
+    background-color: white !important;
+    transition: none !important;
+ }
+ 

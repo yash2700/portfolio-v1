@@ -1,0 +1,27 @@
+.Pcontainer{
+    display: flex;
+    justify-content: space-between;
+}
+.right{
+    width: 70%;
+}
+.allProjects{
+    font-size: 1.4rem;
+    font-weight: 500;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    cursor: pointer;
+    transition: transform 1s ease-in-out;
+    border: none;
+}
+.allProjects:hover img{
+    transform: translateX(10px);
+}
+.allProjects img{
+    margin-top: 0.3rem;
+}
+.allProjects:hover{
+    box-shadow:none;
+    color: black;
+}
